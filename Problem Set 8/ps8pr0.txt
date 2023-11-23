@@ -1,0 +1,7 @@
+﻿Problem Set 8, Problem 0
+Put your response to the reading below.
+IMPORTANT: When you are done, you must download the file as plain-text, not as a PDF.
+Use File->Download->Plain Text.
+
+
+1. NELL and humans both need to read lots of materials, enrich knowledge and build relations between different concepts when they are learning something. NELL also has semantic understanding of words based on analyzing context and sentence structures, which is similar to humans. However, there are still differences between computers and humans. Computers could only follow specific procedures to learn knowledge and will have problems when facing some unexpected situations, but humans understand the words' meanings and could make language more variable. Therefore, computers may misunderstand Internet cookies as a baked good, but humans will not.

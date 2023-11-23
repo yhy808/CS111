@@ -1,0 +1,7 @@
+﻿Problem Set 5, Problem 0
+Put your response to the reading below.
+IMPORTANT: Your entire response should fit on this page.
+
+
+1. I think the drawbacks of using subroutines in the article could be fixed today. The situation of eliminating the duplication before returning the problem seldom occurs nowadays, and it could be avoided by setting the average time required for each subroutine. 
+2. Subroutines could avoid the duplication of code, because it uses reusable functions which is more convenient. Therefore, the code could be reusable for multiple programs which conserve the programming time and is easier to write.
